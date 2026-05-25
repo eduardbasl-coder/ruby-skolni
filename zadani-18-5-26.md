@@ -157,4 +157,5 @@ Volba: 5
 Konec programu
 ```
 
-### Finální známka: zatím nevím
+### Finální známka: 1
+### Splnění: Uspěšné
