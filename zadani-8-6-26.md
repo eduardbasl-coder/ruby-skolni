@@ -189,3 +189,4 @@ Chybne: 1
 Uspesnost: 80 %
 Hodnoceni: Dobra prace
 ```
+# Známka: zatím nevím
